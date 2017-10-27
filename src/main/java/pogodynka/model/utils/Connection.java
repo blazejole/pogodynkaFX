@@ -16,7 +16,7 @@ public class Connection {
 
     private static final String SQL_LINK = "jdbc:mysql://5.135.218.27:3306/BlazejOlesiak?characterEncoding=utf8";
     private static final String SQL_USER = "BlazejOlesiak";
-    private static final String SQL_PASS = "blazej11";
+    private static final String SQL_PASS = "????????";
     private static final String SQL_CLASS = "com.mysql.jdbc.Driver";
 
     private Connection(){
